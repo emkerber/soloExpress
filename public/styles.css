@@ -1,0 +1,18 @@
+body {
+  background-color: #deb887;
+  text-align: center;
+  font-size: 200%;
+  color: #006633;
+  font-family: 'Lobster', cursive;
+}
+
+button {
+  margin: 30px;
+  padding: 15px 30px;
+  border-radius: 20px;
+  background-image: linear-gradient(to bottom, #5958b3, #a3aafa);
+  text-shadow: 1px 1px 4px #666666;
+  color: #1d241f;
+  font-size: 150%;
+  font-family: 'Lobster', cursive;
+}
