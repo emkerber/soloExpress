@@ -17,3 +17,6 @@ Style things using CSS.
 
 HARD MODE
 Also animate the data on the page using jQuery.
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/emkerber/soloExpress.svg)](https://greenkeeper.io/)
